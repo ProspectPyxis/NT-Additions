@@ -1,0 +1,8 @@
+[{
+  "modid": "ntadditions",
+  "name": "NullTeknika Additions",
+  "description": "A mod created specifically for the NullTeknika modpack.",
+  "version": "0.2.0",
+  "mcversion": "1.12.2",
+  "authorList": ["ProspectPyxis"]
+}]
